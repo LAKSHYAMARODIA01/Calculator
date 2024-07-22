@@ -2,7 +2,6 @@
 <h4>Simple Calculator Using HTML& CSS.<br>its also Perform Operation</h4>
 
 <h3>Show Demo:--></h3><br>
-
 <h2>Basic Interface:</h2><br>
 <img width="928" alt="Calc_Front Interface" src="https://github.com/user-attachments/assets/51b04dcf-e668-4324-9705-20d171919ef3"><br>
 
